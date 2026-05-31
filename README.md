@@ -1,5 +1,14 @@
 ## 🚀 Live Demo
 https://trackiq-frontend.vercel.app
+## 👤 Test Credentials
+
+Manager:
+Email: manager@gmail.com  
+Password: 123456  
+
+Reporter:
+Email: reporter@gmail.com  
+Password: 123456
 
 ## 🔗 Backend API
 https://trackiq-backend.onrender.com
